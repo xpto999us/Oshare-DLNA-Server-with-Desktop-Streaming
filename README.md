@@ -4,7 +4,7 @@ Configuration: edit config.ini or run radio.exe.
 
 
 binaries: 
-https://mega.nz/file/5YdDBAAQ#ykfnzLMGOTbgqgZqA0UNS9dQ648oQre-FHdBjItkzR4
+https://mega.nz/file/5YUDEQgI#IcZNKyuP2gfJlWqOC1c0uV3CiokdKELjTItuWKBy-Ec
 (oshare_binrelease folder, read README.txt for configuration/errors/diagnostic).
 
 COMPATIBILITIES/DLNA clients running ok:
